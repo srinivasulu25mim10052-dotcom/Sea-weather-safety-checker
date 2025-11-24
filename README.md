@@ -2,12 +2,9 @@ Sea Weather Checker
 
 ​Description:
 ​
-
 The See Weather Checker is a simple, modern, and responsive web application designed to provide up-to-date weather information for any city worldwide. Built with ease of use in mind, it allows users to quickly check current temperature, conditions, wind speed, and humidity, helping them plan their day effectively.
 
-
 ​Features:
-
 
 ​Global Search: Easily search for weather data in thousands of cities around the globe.
 
