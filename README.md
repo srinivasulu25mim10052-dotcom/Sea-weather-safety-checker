@@ -33,9 +33,7 @@ How to Use:
 
 ​View Results: As you type, suggestions may appear, or press Enter to display the current weather metrics for the specified location.
 
-
 ​Technologies Used:
-
 
 ​HTML5
 
@@ -45,9 +43,7 @@ How to Use:
 
 ​OpenWeatherMap API (Mock): Used to retrieve real-time weather data (Requires an API Key).
 
-
 ​Future Enhancements:
-
 
 ​5-Day Forecast: Integrate a forecast section to show weather predictions for the coming days.
 
